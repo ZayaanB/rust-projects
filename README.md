@@ -1,6 +1,6 @@
 # rust-projects
 
-**Current Project: Guessing Game**
+**Current Project: Command Line Task Manager** (*chapter 12*)
 
 ## Cargo Commands:
 | Command Name | Function |
