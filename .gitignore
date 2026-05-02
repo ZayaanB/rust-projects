@@ -1,19 +1,14 @@
-# Rust build artifacts
-/target/
+**/target/
 
-# Cargo lock (optional for libraries; keep for applications)
-Cargo.lock
-
-# Editor and OS files
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 
-# Backup files
 **/*.rs.bk
 
-# Native binary artifacts
+tasks.json
+
 *.pdb
 *.exe
 *.dll
